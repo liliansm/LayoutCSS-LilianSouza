@@ -1,0 +1,49 @@
+header{
+    background-color: rgb(48, 235, 235);
+    height: 95px;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    float: right;
+}
+nav{
+    background-color: rgb(115, 194, 168);
+    height: 625px;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    float: left;
+}
+.bloco{
+    display: flex;
+    height: 450px;
+    width: 80%;
+    float: right;
+
+}
+article{
+    background-color: rgb(82, 167, 167);
+    height: 450px;
+    width: 80%;
+    display: flex;
+
+}
+aside{
+    background-color: rgb(37, 82, 67);
+    height: 530px;
+    width: 20%;
+    display: flex;
+    align-items: stretch;
+
+}
+
+footer{
+    background-color: rgb(154, 226, 226);
+    height: 80px;
+    width: 68%;
+    display: flex;
+    flex-direction: row;
+    float: center;
+    
+}
